@@ -8,7 +8,7 @@
  * @owner: 3rd member
  *
  * description: This struct of dog with some basic info for a dog as it's name
- * and age and also the owner of this dog, it's a simple struct 
+ * and age and also the owner of this dog, it's a simple struct
  */
 struct dog
 {
