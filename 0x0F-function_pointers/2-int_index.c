@@ -1,6 +1,7 @@
 #include "function_pointers.h"
 /**
- * int_index - function which return index of input if condition is true , else -1
+ * int_index - function which return index of
+ * input if condition is true , else -1
  * @array: props/ array to be entered
  * @size: props/ size of array
  * @cmp: props/ pointer to one of the functions
